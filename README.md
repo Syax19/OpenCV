@@ -4,7 +4,7 @@
 > https://www.youtube.com/watch?v=gQS0T5kGlis
 
 * Step 1:
-> 使用Pytube.ipynb下載想做效果的影片
+> 使用Pytube.ipynb下載想做效果的YouTube影片(請注意版權問題)
 1. 將link改成欲下載影片的YouTube網址
 2. download()參數填入下載檔案存檔路徑
 
