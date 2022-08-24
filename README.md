@@ -31,3 +31,8 @@
 > 使用TakePictureManually.ipynb將影片截圖
 1. cv2.VideoCapture()參數改為欲讀取檔案路徑
 2. cv2.imwrite(f'./frame{count}.jpg', frame) 參數1為截圖存取路徑+檔名+檔案類型(副檔名), 參數2為讀取的frame
+
+
+* **Face Detection**
+> 使用python Dlib套件對 TrumpFootage 10秒鐘片段做人臉偵測
+> 
