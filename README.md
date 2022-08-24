@@ -1,6 +1,6 @@
 # OpenCV
 
-* 成品影片連結：
+* **成品影片連結**：
 > https://www.youtube.com/watch?v=gQS0T5kGlis
 
 * Step 1:
