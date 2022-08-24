@@ -34,5 +34,6 @@
 
 
 * **Face Detection**
+> 成品影片: Trump_FaceDetection.mp4
 > 使用python Dlib套件對 TrumpFootage 10秒鐘片段做人臉偵測
-> 
+
