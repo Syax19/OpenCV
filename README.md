@@ -30,4 +30,4 @@
 * Step 3:
 > 使用TakePictureManually.ipynb將影片截圖
 1. cv2.VideoCapture()參數改為欲讀取檔案路徑
-2. cv2.imwrite(f'./frame{count}.jpg', frame) 參數1為截圖存取路徑+檔名+檔案類型, 參數2為讀取的frame
+2. cv2.imwrite(f'./frame{count}.jpg', frame) 參數1為截圖存取路徑+檔名+檔案類型(副檔名), 參數2為讀取的frame
